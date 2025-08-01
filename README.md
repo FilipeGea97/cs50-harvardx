@@ -24,7 +24,7 @@ Exploring the fundamentss of Computer Science, with focus in:
 
 ## 🧠 What I've learnt so far:
 
-- More deep understanding of logic and algorithms
+- Deeper understanding of logic and algorithms
 - Practical experience using C
 - Organization and versoning with Git
 
