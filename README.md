@@ -1,6 +1,6 @@
 # 📚 My learning path in CS50 (HarvardX).
 
-This repo documents my trajectory in [CS50: Introduction to Computer Science](https://cs50.harvard.edu/x/) by HarvardX. Here I share my codes, commentaries, and learnings week after week.
+This repository documents my trajectory in [CS50: Introduction to Computer Science](https://cs50.harvard.edu/x/) by HarvardX. Here I share my codes, commentaries, and learnings week after week.
 
 ## 🎯 Objective
 Exploring the fundamentss of Computer Science, with focus in:
